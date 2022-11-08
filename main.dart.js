@@ -8023,8 +8023,8 @@ this.b=b},
 aQM(){if($.R==null)A.aO1()
 $.R.toString
 $.aFs.b=B.q1
-if($.aFs.aL()===B.q1)$.md.b="https://staging-presensi.ypsimlibrary.com"
-else if($.aFs.aL()===B.Hi)$.md.b="https://presensi.ypsimlibrary.com"
+if($.aFs.aL()===B.Hi)$.md.b="https://staging-presensi.ypsimlibrary.com"
+else if($.aFs.aL()===B.q1)$.md.b="https://presensi.ypsimlibrary.com"
 $.UT=A.b2d()
 if($.a2i() instanceof A.z3){$.b41=A.b6c()
 $.a26=$.a1X=null}if($.aEN() instanceof A.z3)$.b6b=A.b6a()
@@ -100479,8 +100479,8 @@ B.Hg=new A.kM(3,"edge")
 B.jr=new A.kM(4,"ie11")
 B.dq=new A.kM(5,"samsung")
 B.Hh=new A.kM(6,"unknown")
-B.Hi=new A.Bw(0,"production")
-B.q1=new A.Bw(1,"staging")
+B.q1=new A.Bw(0,"production")
+B.Hi=new A.Bw(1,"staging")
 B.Hj=new A.Bx(null,null,null,null,null,null,null,null,null)
 B.Hk=new A.N2(0,"normal")
 B.q2=new A.mq(A.aQO(),A.aj("mq<Z>"))
