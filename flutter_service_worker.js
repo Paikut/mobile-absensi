@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f36d20715bccdaf86ee9c2957f1e8b88",
+  "assets/AssetManifest.json": "4eae7413cda9a1a19bcccf5a67aeca92",
+"assets/assets/img/feature-graphics.png": "1ee4096ce7ee6f8e2ed9b2e03960a7e8",
 "assets/assets/img/logo-android.png": "df28076d139457a08855843e15857450",
-"assets/assets/img/logo-app.png": "8e5130038e6db25561462419e78d82b9",
+"assets/assets/img/logo-app.png": "e43acfb1c38670d605b149010300c650",
 "assets/assets/img/logo-ios.png": "8995562214c7d018450e9cc2ab382ed0",
 "assets/assets/img/logo-ypsim.jpeg": "1892ed27eb16bbbf88e5f89ffd8023df",
 "assets/assets/img/no-image.jpg": "2e1a2497af070fa3af88aff09a0ec200",
@@ -26,9 +27,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2d76d425c263315dbb6402b0e8419d82",
 "icons/Icon-maskable-192.png": "722d1da8684cdfcfa7c223bb67e1acd5",
 "icons/Icon-maskable-512.png": "2d76d425c263315dbb6402b0e8419d82",
-"index.html": "e5fbd1077d189e8473cb9d5377433f49",
-"/": "e5fbd1077d189e8473cb9d5377433f49",
-"main.dart.js": "59e1ae380a9b68a090f77a0a97487d76",
+"index.html": "ca5c5c97430853c70c1e1fa1a3b5d8eb",
+"/": "ca5c5c97430853c70c1e1fa1a3b5d8eb",
+"main.dart.js": "6294b8e03fe28b54380a4739c5200638",
 "manifest.json": "c460631f9828bfe74ac534ce50406351",
 "version.json": "aa18d191c8a6bb639e97c2df60759897"
 };
