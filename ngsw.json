@@ -1,0 +1,99 @@
+{
+  "configVersion": 1,
+  "timestamp": 1677009726695,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/370.cfc6c94804b95a75.js",
+        "/400.85f159adbed6d7ff.js",
+        "/506.1d39756d6af5d43b.js",
+        "/531.e5fcdd4df72991b9.js",
+        "/585.5736fcfb667e6bb4.js",
+        "/842.e59fe766c9f50cc2.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.39c4500471965c11.js",
+        "/manifest.webmanifest",
+        "/polyfills.82f160dfa0c2e451.js",
+        "/runtime.087c0d17ee4eb7e7.js",
+        "/styles.ddd7e6177069028f.css",
+        "/vendor.b94d5017ce9627a7.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/logo-ypsim.jpeg",
+        "/assets/images/no-image.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/370.cfc6c94804b95a75.js": "d6ca5fda237648141593a11770c2717a578a3038",
+    "/400.85f159adbed6d7ff.js": "ddf4a890caa7209602b0923895162ebaf5996457",
+    "/506.1d39756d6af5d43b.js": "28c280e3da9cc120669bc9a1da8aa630f9aab7bc",
+    "/531.e5fcdd4df72991b9.js": "9dd5df4c97f6a8d7839ce217354835a01fe2f70b",
+    "/585.5736fcfb667e6bb4.js": "3c2245ca4377c4fd2cbcf910158ede8a9e0fa441",
+    "/842.e59fe766c9f50cc2.js": "9f68acf3a4d9df4c3649449df02db0f90a664a91",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/logo-ypsim.jpeg": "3630b68c9c7ba7cf831b92293c52e1c3d5775e99",
+    "/assets/images/no-image.jpg": "d504a28b588e9efd2efc638278ddb5b1d48a1ee0",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "4fc56312260ae56c5dbf23f9290f90c0b5e6e8b5",
+    "/main.39c4500471965c11.js": "b07d8ae97c79f43612ca25dd09b9b62c507dc214",
+    "/manifest.webmanifest": "a7285404446d3e8f114a8f912b5fff2c300488be",
+    "/polyfills.82f160dfa0c2e451.js": "cfb17db4ebc50a2a17e7ff556700ebbd400e7d5f",
+    "/runtime.087c0d17ee4eb7e7.js": "81ceed6205a3849bf07fbb8fb4c7a50ccde1f45b",
+    "/styles.ddd7e6177069028f.css": "7fab8d3e4fb4ba79da5dfe5543a76e67bf7e2d33",
+    "/vendor.b94d5017ce9627a7.js": "05f91f20520763376272252c8fda66001c10d4b2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
