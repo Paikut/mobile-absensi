@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677012211822,
+  "timestamp": 1677048797609,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,20 +11,20 @@
         "ignoreVary": true
       },
       "urls": [
-        "/370.7768c6cc78fb3cfe.js",
         "/400.85f159adbed6d7ff.js",
         "/506.1d39756d6af5d43b.js",
         "/531.e5fcdd4df72991b9.js",
         "/585.5736fcfb667e6bb4.js",
+        "/680.08be9fd3c83afc67.js",
         "/842.7e777436f9152249.js",
         "/favicon.ico",
         "/index.html",
-        "/main.39c4500471965c11.js",
+        "/main.0017e9018857a003.js",
         "/manifest.webmanifest",
         "/polyfills.82f160dfa0c2e451.js",
-        "/runtime.879e9b664e6e848c.js",
+        "/runtime.eaab8c9328f7b5fe.js",
         "/styles.ddd7e6177069028f.css",
-        "/vendor.c404f6d4318ba1c6.js"
+        "/vendor.3a4c804e6637a002.js"
       ],
       "patterns": []
     },
@@ -52,11 +52,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/370.7768c6cc78fb3cfe.js": "6cb16854381ff2f23b3d4c7c0bbb0beb58a1423e",
     "/400.85f159adbed6d7ff.js": "ddf4a890caa7209602b0923895162ebaf5996457",
     "/506.1d39756d6af5d43b.js": "28c280e3da9cc120669bc9a1da8aa630f9aab7bc",
     "/531.e5fcdd4df72991b9.js": "9dd5df4c97f6a8d7839ce217354835a01fe2f70b",
     "/585.5736fcfb667e6bb4.js": "3c2245ca4377c4fd2cbcf910158ede8a9e0fa441",
+    "/680.08be9fd3c83afc67.js": "b2477782aff3ccc72547ca8deeeadbeb9449141a",
     "/842.7e777436f9152249.js": "c2f615df9b1631bedf57e857e8030c2559663a04",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -69,13 +69,13 @@
     "/assets/images/logo-ypsim.jpeg": "3630b68c9c7ba7cf831b92293c52e1c3d5775e99",
     "/assets/images/no-image.jpg": "d504a28b588e9efd2efc638278ddb5b1d48a1ee0",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "8f88afe99302054a24cc8f3aff480e960808a37d",
-    "/main.39c4500471965c11.js": "b07d8ae97c79f43612ca25dd09b9b62c507dc214",
+    "/index.html": "0f68a1d9a902a2292f87f1aed47c574c0162ec29",
+    "/main.0017e9018857a003.js": "7d0227bf6b97b14f1d01759fa063b8be6e454dc6",
     "/manifest.webmanifest": "a7285404446d3e8f114a8f912b5fff2c300488be",
     "/polyfills.82f160dfa0c2e451.js": "cfb17db4ebc50a2a17e7ff556700ebbd400e7d5f",
-    "/runtime.879e9b664e6e848c.js": "4439745a8b22696682006d2c961f2728b68672f0",
+    "/runtime.eaab8c9328f7b5fe.js": "ff0e0e1e5b73e15573fc4b2380ef2cfc95add765",
     "/styles.ddd7e6177069028f.css": "7fab8d3e4fb4ba79da5dfe5543a76e67bf7e2d33",
-    "/vendor.c404f6d4318ba1c6.js": "751498d729f2bd4cdc8cdd58f315e9a406c2f925"
+    "/vendor.3a4c804e6637a002.js": "dc261d590d1d3bb284e83b7104bba5b08d9bb82f"
   },
   "navigationUrls": [
     {
