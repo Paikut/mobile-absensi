@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1686564509060,
+  "timestamp": 1691213988118,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,18 +12,21 @@
       },
       "urls": [
         "/209.058872db94124c6e.js",
-        "/40.ba8ff034adbe6722.js",
-        "/506.1d39756d6af5d43b.js",
-        "/531.e5fcdd4df72991b9.js",
+        "/346.973cf2ff0f556a6c.js",
+        "/40.59292931d07abf96.js",
         "/585.80956eaf00189ea9.js",
-        "/842.b1fd332480ecdbbe.js",
+        "/842.23f4b71cf6170798.js",
+        "/903.9fdca1980c872adb.js",
         "/favicon.ico",
-        "/main.07baaf9c9083ab1a.js",
+        "/main.81ba851db081e372.js",
         "/manifest.webmanifest",
+        "/ngsw-worker.js",
         "/polyfills.82f160dfa0c2e451.js",
-        "/runtime.12d946931be80113.js",
+        "/runtime.81561aa9d552f9b4.js",
+        "/safety-worker.js",
         "/styles.ddd7e6177069028f.css",
-        "/vendor.70509db1e664c793.js"
+        "/vendor.70509db1e664c793.js",
+        "/worker-basic.min.js"
       ],
       "patterns": []
     },
@@ -52,11 +55,11 @@
   "dataGroups": [],
   "hashTable": {
     "/209.058872db94124c6e.js": "eae8e9795843543f28b449b508902a00c9d5086f",
-    "/40.ba8ff034adbe6722.js": "0ffbf2fbb9edf5bbd0516eae7bdb77d750d3cc8f",
-    "/506.1d39756d6af5d43b.js": "28c280e3da9cc120669bc9a1da8aa630f9aab7bc",
-    "/531.e5fcdd4df72991b9.js": "9dd5df4c97f6a8d7839ce217354835a01fe2f70b",
+    "/346.973cf2ff0f556a6c.js": "bbd233c1b338124defe4fbe07b1ce091d2fc1f5f",
+    "/40.59292931d07abf96.js": "1dc2c7a5bc5d7d01bd45ae78314c2b4db0a6d544",
     "/585.80956eaf00189ea9.js": "2889ee84b35535a40c26b16bc59979ec320dabb9",
-    "/842.b1fd332480ecdbbe.js": "683a3f833a662b1c157bb21370cf44b0e350dc35",
+    "/842.23f4b71cf6170798.js": "9bdcff5e6175685cd02a4617e8bac655d0275a8d",
+    "/903.9fdca1980c872adb.js": "920566bc593ff04df1eeb1c5e6fb082b9ae65180",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -68,12 +71,15 @@
     "/assets/images/logo-ypsim.jpeg": "3630b68c9c7ba7cf831b92293c52e1c3d5775e99",
     "/assets/images/no-image.jpg": "d504a28b588e9efd2efc638278ddb5b1d48a1ee0",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/main.07baaf9c9083ab1a.js": "153ef5ff431a431c810772333293fe2b160e93e9",
+    "/main.81ba851db081e372.js": "a40d7af67d65a7d4037e58163dda86d3c6cc8149",
     "/manifest.webmanifest": "d3993bcc66ad0f11c143b69cbd3975a8bec207b9",
+    "/ngsw-worker.js": "3c7b64af73bce34cb23f3fbb8f8fa238f6a90f57",
     "/polyfills.82f160dfa0c2e451.js": "cfb17db4ebc50a2a17e7ff556700ebbd400e7d5f",
-    "/runtime.12d946931be80113.js": "971f435c62879186e2605d2a216e1c4eb6a12a3d",
+    "/runtime.81561aa9d552f9b4.js": "2e0e8aaf928c46bb91b55c6e9130de91df615bbe",
+    "/safety-worker.js": "70914dc203fa1f881e56f2b794d7a4f9c48ee745",
     "/styles.ddd7e6177069028f.css": "7fab8d3e4fb4ba79da5dfe5543a76e67bf7e2d33",
-    "/vendor.70509db1e664c793.js": "7bb0e2127a2659f1531834ffae4259aa2d3e3243"
+    "/vendor.70509db1e664c793.js": "7bb0e2127a2659f1531834ffae4259aa2d3e3243",
+    "/worker-basic.min.js": "70914dc203fa1f881e56f2b794d7a4f9c48ee745"
   },
   "navigationUrls": [
     {
